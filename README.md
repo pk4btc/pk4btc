@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pk4btc
 - 👀 I’m interested in it technology
-- 🌱 I’m currently learning networks,protocols,developing web application also want to learn a security thats IT parts
+- 🌱 I’m currently learning networks,protocols,developing web application also learn the security 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
